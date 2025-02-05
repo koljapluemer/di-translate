@@ -33,7 +33,8 @@
             <div class="flex flex-wrap gap-2">
                 <span v-for="(word, index) in splittedWords" :key="index"
                     class="p-3 text-lg badge badge-outline cursor-pointer"
-                    :class="selectedWords.includes(word) ? 'badge-primary' : 'badge-outline'" @click="toggleWord(word)">
+                    :class="selectedWords.includes(word) ? 'badge-secondary' : 'badge-outline'"
+                    @click="toggleWord(word)">
                     {{ word }}
                 </span>
             </div>
@@ -255,17 +256,4 @@ async function requestChatGptTranslation(words: string[]): Promise<[string, stri
 
 </script>
 
-<style scoped>
-.word-item {
-    display: inline-block;
-    margin: 4px;
-    padding: 4px 8px;
-    border: 1px solid #ccc;
-    cursor: pointer;
-}
-
-.word-item.selected {
-    border-color: green;
-    background-color: #d2f8d2;
-}
-</style>
+<style scoped></style>
