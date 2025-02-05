@@ -158,10 +158,13 @@ async function translateAndStore() {
         const translations = await requestChatGptTranslation(selectedWords.value)
 
         // 2) Prepare the new WordEntry objects
-        finalWordList.value = selectedWords.value.map((word, idx) => ({
-            de: word,
-            en: translations[idx] || '',
-        }))
+        // from [
+        //     ["Schatten", "shadow"],
+        //     ["wollt", "wanted"],
+        //     ["brechen", "break"]
+        // ]
+        // to {de: "Schatten", en: "shadow"}
+        finalWordList.value = translations.map(([de, en]) => ({ de, en }))
 
         // 3) Load existing words from localStorage
         const existingStr = localStorage.getItem('savedWords')
@@ -174,8 +177,6 @@ async function translateAndStore() {
             }
         }
 
-        // 4) Merge old + new
-        //    Optionally remove duplicates by original text or ID if desired.
         const merged = [...existing, ...finalWordList.value]
 
         // 5) Store the updated array
@@ -191,12 +192,12 @@ async function translateAndStore() {
 // --------------------
 // ChatGPT Integration
 // --------------------
-async function requestChatGptTranslation(words: string[]): Promise<string[]> {
+async function requestChatGptTranslation(words: string[]): Promise<[string, string][]> {
     const OPENAI_API_KEY = import.meta.env.VITE_OPENAI_API_KEY
 
     // 1) Construct a prompt to translate from German to English
     const prompt = `
-    Please translate the following German words to English as a JSON array (only translations, same order):
+    Please translate the following German words to English as a JSON Array. Every element of the array should be another array with two strings: the German word and its English translation. Return only this JSON array. Do not wrap in a codeblock, give the whole JSON as string. Here are the words: 
     ${words.join(', ')}
   `
 
@@ -229,7 +230,9 @@ async function requestChatGptTranslation(words: string[]): Promise<string[]> {
     }
 
     const data = await response.json()
+    console.info('ChatGPT response:', data)
     let rawAnswer = data?.choices?.[0]?.message?.content?.trim() || '[]'
+    console.info('Raw answer:', rawAnswer)
 
     // Attempt to parse the assistant’s reply as an array
     let translations: string[] = []
