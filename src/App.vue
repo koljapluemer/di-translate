@@ -5,6 +5,7 @@
   <header>
     <nav class="flex flex-row gap-2 m-auto justify-center">
       <router-link class="btn btn-sm" to="/">New Image</router-link>
+      <router-link class="btn btn-sm" to="/words">My Words</router-link>
       <router-link class="btn btn-sm" to="/learn">Practice</router-link>
     </nav>
   </header>
