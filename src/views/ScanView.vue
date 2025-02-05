@@ -1,6 +1,5 @@
 <template>
     <div class="p-4 space-y-6">
-        <h1 class="text-3xl font-bold mb-6">OCR & Translation Flow</h1>
 
         <!-- Step 1: Upload or Capture Photo -->
         <div class="card bg-base-100 shadow-xl p-4" v-if="step === 1">
@@ -12,6 +11,12 @@
             <button class="btn btn-primary" :disabled="!imageFile" @click="goToStep2">
                 Next
             </button>
+
+            <ol class="list-decimal m-6">
+                <li>Select an image with German text</li>
+                <li>Choose which words you want to learn</li>
+                <li>Practice!</li>
+            </ol>
         </div>
 
         <!-- Step 2: Perform OCR -->
