@@ -1,0 +1,546 @@
+#separator:tab
+#html:true
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدي</div>
+<div class="pronunciation">kān 3ándi</div>
+[sound:eavcd020-001.mp3]"	"<div class="english">I had (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">I had (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">أنا</div>
+
+<div class="arabic">كان عَنْدي</div>
+<div class="pronunciation">kān 3ándi</div>
+[sound:eavcd020-001.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدِنا</div>
+<div class="pronunciation">kān 3andína</div>
+[sound:eavcd020-002.mp3]"	"<div class="english">we had (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">we had (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إحْنا</div>
+
+<div class="arabic">كان عَنْدِنا</div>
+<div class="pronunciation">kān 3andína</div>
+[sound:eavcd020-002.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدَك</div>
+<div class="pronunciation">kān 3ándak</div>
+[sound:eavcd020-003.mp3]"	"<div class="english">you had <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you had <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إنْتَ</div>
+
+<div class="arabic">كان عَنْدَك</div>
+<div class="pronunciation">kān 3ándak</div>
+[sound:eavcd020-003.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدِك</div>
+<div class="pronunciation">kān 3ándik</div>
+[sound:eavcd020-004.mp3]"	"<div class="english">you had <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you had <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إنْتي</div>
+
+<div class="arabic">كان عَنْدِك</div>
+<div class="pronunciation">kān 3ándik</div>
+[sound:eavcd020-004.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدُكو</div>
+<div class="pronunciation">kān 3andúku</div>
+[sound:eavcd020-005.mp3]"	"<div class="english">you had <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you had <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إنْتو</div>
+
+<div class="arabic">كان عَنْدُكو</div>
+<div class="pronunciation">kān 3andúku</div>
+[sound:eavcd020-005.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدُه</div>
+<div class="pronunciation">kān 3ándu</div>
+[sound:eavcd020-006.mp3]"	"<div class="english">he had (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">he had (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">هُوَّ</div>
+
+<div class="arabic">كان عَنْدُه</div>
+<div class="pronunciation">kān 3ándu</div>
+[sound:eavcd020-006.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدَها</div>
+<div class="pronunciation">kān 3andáha</div>
+[sound:eavcd020-007.mp3]"	"<div class="english">she had (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">she had (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">هِيَّ</div>
+
+<div class="arabic">كان عَنْدَها</div>
+<div class="pronunciation">kān 3andáha</div>
+[sound:eavcd020-007.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">كان عَنْدُهُم</div>
+<div class="pronunciation">kān 3andúhum</div>
+[sound:eavcd020-008.mp3]"	"<div class="english">they had (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">they had (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">هُمّا</div>
+
+<div class="arabic">كان عَنْدُهُم</div>
+<div class="pronunciation">kān 3andúhum</div>
+[sound:eavcd020-008.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدي</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándi</div>
+[sound:eavcd020-009.mp3]"	"<div class="english">I didn't have (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">I didn't have (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">أنا</div>
+
+<div class="arabic">مكانْش عَنْدي</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándi</div>
+[sound:eavcd020-009.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدِنا</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andína</div>
+[sound:eavcd020-010.mp3]"	"<div class="english">we didn't have (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">we didn't have (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إحْنا</div>
+
+<div class="arabic">مكانْش عَنْدِنا</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andína</div>
+[sound:eavcd020-010.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدَك</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándak</div>
+[sound:eavcd020-011.mp3]"	"<div class="english">you didn't have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you didn't have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إنْتَ</div>
+
+<div class="arabic">مكانْش عَنْدَك</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándak</div>
+[sound:eavcd020-011.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدِك</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándik</div>
+[sound:eavcd020-012.mp3]"	"<div class="english">you didn't have <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you didn't have <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إنْتي</div>
+
+<div class="arabic">مكانْش عَنْدِك</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándik</div>
+[sound:eavcd020-012.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدُكو</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andúku</div>
+[sound:eavcd020-013.mp3]"	"<div class="english">you didn't have <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you didn't have <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">إنْتو</div>
+
+<div class="arabic">مكانْش عَنْدُكو</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andúku</div>
+[sound:eavcd020-013.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدُه</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándu</div>
+[sound:eavcd020-014.mp3]"	"<div class="english">he didn't have (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">he didn't have (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">هُوَّ</div>
+
+<div class="arabic">مكانْش عَنْدُه</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3ándu</div>
+[sound:eavcd020-014.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدَها</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andáha</div>
+[sound:eavcd020-015.mp3]"	"<div class="english">she didn't have (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">she didn't have (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">هِيَّ</div>
+
+<div class="arabic">مكانْش عَنْدَها</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andáha</div>
+[sound:eavcd020-015.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مكانْش عَنْدُهُم</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andúhum</div>
+[sound:eavcd020-016.mp3]"	"<div class="english">they didn't have (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: perfect</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">they didn't have (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: perfect</div>"	"<div class="pronoun">هُمّا</div>
+
+<div class="arabic">مكانْش عَنْدُهُم</div>
+<div class="pronunciation">ma-kánš<sup>ə</sup> 3andúhum</div>
+[sound:eavcd020-016.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدي</div>
+<div class="pronunciation">3ándi</div>
+[sound:eavcd020-017.mp3]"	"<div class="english">I have (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">I have (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">أنا</div>
+
+<div class="arabic">عَنْدي</div>
+<div class="pronunciation">3ándi</div>
+[sound:eavcd020-017.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدِنا</div>
+<div class="pronunciation">3andína</div>
+[sound:eavcd020-018.mp3]"	"<div class="english">we have (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">we have (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إحْنا</div>
+
+<div class="arabic">عَنْدِنا</div>
+<div class="pronunciation">3andína</div>
+[sound:eavcd020-018.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدَك</div>
+<div class="pronunciation">3ándak</div>
+[sound:eavcd020-019.mp3]"	"<div class="english">you have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إنْتَ</div>
+
+<div class="arabic">عَنْدَك</div>
+<div class="pronunciation">3ándak</div>
+[sound:eavcd020-019.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدِك</div>
+<div class="pronunciation">3ándik</div>
+[sound:eavcd020-020.mp3]"	"<div class="english">you have <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you have <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إنْتي</div>
+
+<div class="arabic">عَنْدِك</div>
+<div class="pronunciation">3ándik</div>
+[sound:eavcd020-020.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدُكو</div>
+<div class="pronunciation">3andúku</div>
+[sound:eavcd020-021.mp3]"	"<div class="english">you have <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you have <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إنْتو</div>
+
+<div class="arabic">عَنْدُكو</div>
+<div class="pronunciation">3andúku</div>
+[sound:eavcd020-021.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدُه</div>
+<div class="pronunciation">3ándu</div>
+[sound:eavcd020-022.mp3]"	"<div class="english">he has (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">he has (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">هُوَّ</div>
+
+<div class="arabic">عَنْدُه</div>
+<div class="pronunciation">3ándu</div>
+[sound:eavcd020-022.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدَها</div>
+<div class="pronunciation">3andáha</div>
+[sound:eavcd020-023.mp3]"	"<div class="english">she has (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">she has (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">هِيَّ</div>
+
+<div class="arabic">عَنْدَها</div>
+<div class="pronunciation">3andáha</div>
+[sound:eavcd020-023.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">عَنْدُهُم</div>
+<div class="pronunciation">3andúhum</div>
+[sound:eavcd020-024.mp3]"	"<div class="english">they have (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">they have (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">هُمّا</div>
+
+<div class="arabic">عَنْدُهُم</div>
+<div class="pronunciation">3andúhum</div>
+[sound:eavcd020-024.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْديش</div>
+<div class="pronunciation">ma-3andīš</div>
+[sound:eavcd020-025.mp3]"	"<div class="english">I don't have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">I don't have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 1s</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">أنا</div>
+
+<div class="arabic">مَعَنْديش</div>
+<div class="pronunciation">ma-3andīš</div>
+[sound:eavcd020-025.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدِناش</div>
+<div class="pronunciation">ma-3andināš</div>
+[sound:eavcd020-026.mp3]"	"<div class="english">we don't have (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">we don't have (1)</div>
+<div class="person">Person: 1p</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إحْنا</div>
+
+<div class="arabic">مَعَنْدِناش</div>
+<div class="pronunciation">ma-3andināš</div>
+[sound:eavcd020-026.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدَكْش</div>
+<div class="pronunciation">ma-3andákš</div>
+[sound:eavcd020-027.mp3]"	"<div class="english">you don't have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you don't have <sup>(m)</sup> (1)</div>
+<div class="person">Person: 2m</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إنْتَ</div>
+
+<div class="arabic">مَعَنْدَكْش</div>
+<div class="pronunciation">ma-3andákš</div>
+[sound:eavcd020-027.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدِكيش</div>
+<div class="pronunciation">ma-3andikīš</div>
+[sound:eavcd020-028.mp3]"	"<div class="english">you don't have <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you don't have <sup>(f)</sup> (1)</div>
+<div class="person">Person: 2f</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إنْتي</div>
+
+<div class="arabic">مَعَنْدِكيش</div>
+<div class="pronunciation">ma-3andikīš</div>
+[sound:eavcd020-028.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدُكوش</div>
+<div class="pronunciation">ma-3andukūš</div>
+[sound:eavcd020-029.mp3]"	"<div class="english">you don't have <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">you don't have <sup>(p)</sup> (1)</div>
+<div class="person">Person: 2p</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">إنْتو</div>
+
+<div class="arabic">مَعَنْدُكوش</div>
+<div class="pronunciation">ma-3andukūš</div>
+[sound:eavcd020-029.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدوش</div>
+<div class="pronunciation">ma-3andūš</div>
+[sound:eavcd020-030.mp3]"	"<div class="english">he doesn't have (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">he doesn't have (1)</div>
+<div class="person">Person: 3m</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">هُوَّ</div>
+
+<div class="arabic">مَعَنْدوش</div>
+<div class="pronunciation">ma-3andūš</div>
+[sound:eavcd020-030.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدَهاش</div>
+<div class="pronunciation">ma-3andahāš</div>
+[sound:eavcd020-031.mp3]"	"<div class="english">she doesn't have (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">she doesn't have (1)</div>
+<div class="person">Person: 3f</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">هِيَّ</div>
+
+<div class="arabic">مَعَنْدَهاش</div>
+<div class="pronunciation">ma-3andahāš</div>
+[sound:eavcd020-031.mp3]
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="arabic">مَعَنْدُهُمْش</div>
+<div class="pronunciation">ma-3anduhúmš</div>
+[sound:eavcd020-032.mp3]"	"<div class="english">they don't have (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: present</div>
+
+"
+"<div class="meta">Egyptian Arabic Verb Conjugation Drills © Lingualism.com<br><br></div>
+<div class="english">they don't have (1)</div>
+<div class="person">Person: 3p</div>
+<div class="person">Tense: present</div>"	"<div class="pronoun">هُمّا</div>
+
+<div class="arabic">مَعَنْدُهُمْش</div>
+<div class="pronunciation">ma-3anduhúmš</div>
+[sound:eavcd020-032.mp3]
+"
