@@ -19,19 +19,20 @@
             <h2 class="text-xl font-semibold mb-2">Step 2: Extracting Text...</h2>
             <p v-if="ocrInProgress" class="text-sm text-gray-500">Running OCR, please wait...</p>
             <p v-else-if="ocrResult" class="mt-2 whitespace-pre-line">{{ ocrResult }}</p>
-            <button class="btn" @click="step = 1">
+            <button class="btn mt-4" @click="step = 1">
                 Go Back
             </button>
-            <button class="btn btn-primary mt-4" :disabled="!ocrResult" @click="goToStep3">
+            <button class="btn btn-primary mt-2" :disabled="!ocrResult" @click="goToStep3">
                 Next
             </button>
         </div>
 
         <!-- Step 3: Select Words to Keep -->
         <div class="card bg-base-100 shadow-xl p-4" v-else-if="step === 3">
-            <h2 class="text-xl font-semibold mb-2">Step 3: Select Words to Keep</h2>
+            <h2 class="text-xl font-semibold mb-2">Step 3: Select Words to Practice</h2>
             <div class="flex flex-wrap gap-2">
-                <span v-for="(word, index) in splittedWords" :key="index" class="badge badge-outline cursor-pointer"
+                <span v-for="(word, index) in splittedWords" :key="index"
+                    class="p-3 text-lg badge badge-outline cursor-pointer"
                     :class="selectedWords.includes(word) ? 'badge-primary' : 'badge-outline'" @click="toggleWord(word)">
                     {{ word }}
                 </span>
