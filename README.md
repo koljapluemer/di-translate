@@ -1,8 +1,6 @@
-# di translate
-
 ![](doc/img/screenshot.png)
 
-*prototype to upload a screenshot of German text, run it through OCR, extract interesting words, auto-translate, and learn as flashcards* 
+*Archived prototype to upload a screenshot of German text, run it through OCR, extract interesting words, auto-translate, and learn as flashcards* 
 
 ## Tech Stack
 
